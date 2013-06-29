@@ -1,4 +1,4 @@
-uildrequire "tmpdir"
+require "tmpdir"
 require "rubygems"
 require "language_pack"
 require "language_pack/base"
